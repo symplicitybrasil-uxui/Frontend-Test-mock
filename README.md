@@ -1,23 +1,28 @@
 # Front-end Test
+The purpose of this test is simple: *we want to see the best you can do*. Because of that, the requirements described here
+are only *desired*. We expect you to follow the guidelines, but don't worry about delivering a fully functional app. We would like you to share with us every piece of work you may produce, we appreciate it.
 
-## What should you do?
+So, here's the deal. As your clients, we want an app to:
+ * See a list with all characters from Ricky and Morty TV show;
+ * Check the details about an specific character;
+ * Use this app on both mobile and desktop environment;
+ * Be able to navigate on the app using multiple browsers (e.g. Safari, Chrome, IE);
 
-Build a responsive app that:
-* Makes **`REST`** requests to Rick and Morty API: https://rickandmortyapi.com/;
-* Has a homepage with all **`Characters`**;
-* Has a search box which allows users to search **`an specific Character`**;
-* When clicking on a Character it must **`show details`** about him/her/it;
-* Has a **`filter option`** based on any data type you want (e.g.: species, gender, status);
-    
-We want you to develop the app based on the following mocks: 
-- MOCK SHOW DE BOLA DESKTOP
-- MOCK SHOW DE BOLA MOBILE
+Even though it's not obrigatory, we would be happy to be able to:
+ * Filter characters based on some type of data;
+ * Have a functional search box to look up characters by name;
+ 
+To help you out, we got our designers to create this mockup so you can focus on your code quality.
 
-## Technical Requirements
+`Click here to see Rick and Morty app's mockup:` https://xd.adobe.com/view/f1ea7083-5717-4563-611e-c15efdd7fe3f-87db/?fullscreen&hints=off
 
-- **`You must follow the mocks`**;
-- You must use **`plain CSS/SCSS`** (No layout library);
-- Your app must work on **`all browsers (cross-browser)`**;
-- Your app must behave like a **`Single Page Application`**;
+Last but not least, we also would be happy if:
+ * **You stick to the mock**;
+ * You use **`plain CSS/SCSS`** (No layout library);
+ * Your app behave like a **`Single Page Application`**;
 
-BE AWESOME AND CREATIVE! Don't limit yourself  to the requirements only! BE A JEDI ON CODE. Don't be a bitch.
+And that's your test. 
+
+At the end of it, please, *submit your code to your github account and add the README.md document* with the instructions to run your project whether it's deployed in some place (e.g. Heroku) or to build it locally in our machines. 
+
+If you have any doubts about the test, suit yourself and get in touch with us on **uxui@symplicity.com**.
