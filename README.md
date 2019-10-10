@@ -3,7 +3,7 @@ The purpose of this test is simple: *we want to see the best you can do*. Becaus
 are only *desired*. We expect you to follow the guidelines, but don't worry about delivering a fully functional app. We would like you to share with us every piece of work you may produce, we appreciate it.
 
 So, here's the deal. As your clients, we want an app to:
- * See a list with all characters from Ricky and Morty TV show;
+ * See a list with all characters from Ricky and Morty TV show based on https://rickandmortyapi.com/ data;
  * Check the details about an specific character;
  * Use this app on both mobile and desktop environment;
  * Be able to navigate on the app using multiple browsers (e.g. Safari, Chrome, IE);
