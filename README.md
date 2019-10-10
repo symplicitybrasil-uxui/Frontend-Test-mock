@@ -5,16 +5,16 @@ are only *desired*. We expect you to follow the guidelines, but don't worry abou
 So, here's the deal. As your clients, we want an app to:
  * See a list with all characters from Ricky and Morty TV show based on https://rickandmortyapi.com/ data;
  * Check the details about an specific character;
- * Use this app on both mobile and desktop environment;
- * Be able to navigate on the app using multiple browsers (e.g. Safari, Chrome, IE);
+ * Use on both mobile and desktop environment;
+ * Be usable in multiple browsers (e.g. Safari, Chrome, IE);
 
-Even though it's not obrigatory, we would be happy to be able to:
- * Filter characters based on some type of data;
- * Have a functional search box to look up characters by name;
+Even though it's not mandatory, we would be happy to see:
+ * a filter for characters based on some data type;
+ * a functional search box to look up characters by name;
  
 To help you out, we got our designers to create this mockup so you can focus on your code quality.
 
-`Click here to see Rick and Morty app's mockup:` https://xd.adobe.com/view/f1ea7083-5717-4563-611e-c15efdd7fe3f-87db/?fullscreen&hints=off
+`Click here to see the app mockup:` https://xd.adobe.com/view/f1ea7083-5717-4563-611e-c15efdd7fe3f-87db/?fullscreen&hints=off
 
 Last but not least, we also would be happy if:
  * **You stick to the mock**;
@@ -23,6 +23,8 @@ Last but not least, we also would be happy if:
 
 And that's your test. 
 
-At the end of it, please, *submit your code to your github account and add the README.md document* with the instructions to run your project whether it's deployed in some place (e.g. Heroku) or to build it locally in our machines. 
+At the end of the due date, please, *submit your code in your github account and add the README.md document* with the instructions to run your project whether it's deployed in some place (e.g. Heroku) or to build it locally in our machines. 
 
 If you have any doubts about the test, suit yourself and get in touch with us on **uxui@symplicity.com**.
+
+Good luck!
