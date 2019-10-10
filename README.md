@@ -18,7 +18,7 @@ To help you out, we got our designers to create this mockup so you can focus on 
 
 Last but not least, we also would be happy if:
  * **You stick to the mock**;
- * You use **`plain CSS/SCSS`** (No layout library);
+ * You use **`plain CSS/SCSS`** (No layout library like Bootstrap or Foundation);
  * Your app behave like a **`Single Page Application`**;
 
 And that's your test. 
