@@ -14,7 +14,7 @@ Even though it's not mandatory, we would be happy to see:
  
 To help you out, we got our designers to create this mockup so you can focus on your code quality.
 
-`Click here to see the app mockup:` https://xd.adobe.com/view/f1ea7083-5717-4563-611e-c15efdd7fe3f-87db/?fullscreen&hints=off
+`Click here to see the app mockup:` https://xd.adobe.com/spec/1aa05097-0fae-40fc-5eda-25c1b19026ee-6c91/
 
 Last but not least, we also would be happy if:
  * **You stick to the mock**;
