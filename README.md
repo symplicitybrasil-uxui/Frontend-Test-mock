@@ -28,3 +28,5 @@ At the end of the due date, please, *submit your code in your github account and
 If you have any doubts about the test, suit yourself and get in touch with us on **uxui@symplicity.com**.
 
 Good luck!
+
+P.S.: You may keep this project at your github profile as part of your portfolio.
