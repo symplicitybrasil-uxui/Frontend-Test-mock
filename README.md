@@ -1,12 +1,12 @@
 # Front-end Test
 The purpose of this test is simple: *we want to see the best you can do*. Because of that, the requirements described here
-are only *desired*. We expect you to follow the guidelines, but don't worry about delivering a fully functional app. We would like you to share with us every piece of work you may produce, we appreciate it.
+are only *desirable*. We expect you to follow the guidelines, but don't worry about delivering a fully functional app. We would like you to share with us every piece of work you may produce, we appreciate it.
 
 So, here's the deal. As your clients, we want a webapp to:
- * See a list with all characters from Ricky and Morty TV show based on https://rickandmortyapi.com/ data;
+ * Show a list with all characters from Ricky and Morty TV show based on https://rickandmortyapi.com/ data;
  * Check the details about an specific character;
  * Use on both mobile and desktop environment;
- * Be usable in multiple browsers (e.g. Safari, Chrome, IE);
+ * Be available in multiple browsers (e.g. Safari, Chrome, IE);
 
 Even though it's not mandatory, we would be happy to see:
  * a filter for characters based on some data type;
@@ -28,9 +28,9 @@ Last but not least, we also would be happy if:
 
 And that's your test. 
 
-At the end of the due date, please, *submit your code in your github account and add the README.md document* with the instructions to run your project whether it's deployed in some place (e.g. Heroku) or to build it locally in our machines. 
+You have until the deadline to send you code. Please *submit your code in your github account and add the README.md document* with the instructions to run your project whether it's deployed in some place (e.g. Heroku) or to build it locally in our machines. 
 
-If you have any doubts about the test, suit yourself and get in touch with us on **uxui@symplicity.com**.
+If you have any questions about the test, suit yourself and get in touch with us on **uxui@symplicity.com**.
 
 Good luck!
 
