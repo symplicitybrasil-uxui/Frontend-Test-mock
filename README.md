@@ -16,6 +16,11 @@ To help you out, we got our designers to create this mockup so you can focus on 
 
 `Click here to see the webapp mockup:` https://xd.adobe.com/spec/1aa05097-0fae-40fc-5eda-25c1b19026ee-6c91/
 
+And here are the assets you will need:
+ * Images: https://github.com/symplicitybrasil-uxui/Frontend-Test/tree/master/assets
+ * Font - Comfortaa: https://fonts.google.com/specimen/Comfortaa
+ * Font - Roboto: https://fonts.google.com/specimen/Roboto
+ 
 Last but not least, we also would be happy if:
  * **You stick to the mock**;
  * You use **`plain CSS/SCSS`** (No layout library like Bootstrap or Foundation);
